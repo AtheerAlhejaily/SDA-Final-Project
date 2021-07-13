@@ -5,7 +5,7 @@ By:
 - Abdullah Alothman
 - Amani Almarzoog
 - Atheer Alhejaily
-- Fatimah Al-Rahsed
+- Fatimah Al-Rashed
 
 Full Article:
 [Forecasting SABIC Closing Price with Prophet and ARIMA](https://atheera.medium.com/sabic-closing-price-prediction-252c12332a6)
